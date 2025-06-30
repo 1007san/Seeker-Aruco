@@ -165,8 +165,12 @@ Subscribes to /fisheye/bleft/image_raw. This topic can be changed in the python 
 
 Subscribes to /fisheye/bleft/image_raw. This topic can be changed in the python script to view the desired lens.
 
+.
 
+.
 
+.
 
 *To be added:*
-    A dashboard to view all 4 fisheye views, detect up to a total of 10 Aruco Tags in all 4 directions, with each ID Aruco Tag's position printed out.
+
+A dashboard to view all 4 fisheye views, detect up to a total of 10 Aruco Tags in all 4 directions, with each ID Aruco Tag's position printed out.
