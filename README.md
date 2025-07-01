@@ -1,6 +1,8 @@
 # Seeker-Aruco
 Detecting Aruco Tag with Seeker Omni-D Camera
 
+Seeker repository: https://gitee.com/nochain/seeker1
+
 
 # 1.  Environmental requirements
 
